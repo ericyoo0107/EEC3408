@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fdac8d-1a77-482a-9b3d-d7d4e1317296" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EEC3408.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_1.py" afterDir="false" />
+    <list default="true" id="a5fdac8d-1a77-482a-9b3d-d7d4e1317296" name="Changes" comment="week1 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/week2/week2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/week2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/week2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/week2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/week2_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/week1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/week1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/별출력실습.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/week1/별출력실습.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2tyRsPmGgzTR1mCD5bfglPBLtSF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,11 +45,17 @@
     "Python.week1.executor": "Run",
     "Python.week1_1.executor": "Run",
     "Python.week1_2.executor": "Run",
+    "Python.week2_6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\유준혁\PycharmProjects\EEC3408\week1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="EEC3408" />
@@ -84,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\유준혁\PycharmProjects\EEC3408\week1\week1_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +116,29 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1_2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\유준혁\PycharmProjects\EEC3408\week1\week1_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="week2_6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="EEC3408" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/week2_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +164,37 @@
       <option name="presentableId" value="Default" />
       <updated>1741322533440</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1741323315548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741323315550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week1 문제">
+      <option name="closed" value="true" />
+      <created>1741323366710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741323366710</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week1 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1741323380293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741323380293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="week1 문제" />
+    <MESSAGE value="week1 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="week1 문제 풀이" />
   </component>
 </project>

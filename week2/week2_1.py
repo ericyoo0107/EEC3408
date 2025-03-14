@@ -1,0 +1,7 @@
+a, b = map(int, input("정수 2개 입력: ").split())
+print(a, "+", b, "=", a + b)
+print(a, "-", b, "=", a - b)
+print(a, "*", b, "=", a * b)
+print(a, "/", b, "=", a / b)
+print(a, "//", b, "=", a // b)
+print(a, "%", b, "=", a % b)
